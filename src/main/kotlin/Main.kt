@@ -13,8 +13,8 @@ fun name(name:String){
     println(greetings)
 
 }
-fun division(num1:Int, num2:Double):Double{
-    var remender= num1%num2
+fun division(num1:Int, num2:Double)
+    var remender= num1 % num2
     return remender
 
 
@@ -29,3 +29,4 @@ fun fact(funFact:String):String{
     return text
 
 }
+
